@@ -1,18 +1,20 @@
-## Hi my name is Tarik Filipovic 👋
+# Tarik Filipovic 🙋‍♂️
 
-# I'm interning as an MLE, feel free to reach out!
+📍 Northwestern University   
+🎓 Industrial Engineer @ Northwestern University  
+⚽ Interested in tech, data science, and health care
+🚀 Building data-driven projects in my free time
+  
+<br>
 
-<!--
-**tarik-filipovic/tarik-filipovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇸 English • 🇧🇦 Bosnian • 🇭🇷 Crotian • and a bit of (🇫🇷🇩🇪🇪🇸)
+  
+<br>
 
-Here are some ideas to get you started:
+🤽 Water Polo Player • 🇧🇦 Bosnian • 📐 Math Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌎 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikfilipovic) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarik.filipovic@coherehealth.com)
