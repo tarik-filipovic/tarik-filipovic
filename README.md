@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi my name is Tarik Filipovic 👋
+
+# I'm interning as a MLE, feel free to reach out!
 
 <!--
 **tarik-filipovic/tarik-filipovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
