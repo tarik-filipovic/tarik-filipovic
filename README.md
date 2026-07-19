@@ -2,7 +2,7 @@
 
 📍 Northwestern University   
 🎓 Industrial Engineer @ Northwestern University  
-⚽ Interested in tech, data science, and health care
+💻 Interested in tech, data science, and health care  
 🚀 Building data-driven projects in my free time
   
 <br>
