@@ -7,7 +7,7 @@
   
 <br>
 
-🇺🇸 English • 🇧🇦 Bosnian • 🇭🇷 Croatian • and a bit of (🇫🇷🇩🇪🇪🇸)
+🇺🇸 English • 🇧🇦 Bosnian • 🇭🇷 Croatian • a bit of (🇫🇷🇩🇪🇪🇸)
   
 <br>
 
